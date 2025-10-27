@@ -7,6 +7,7 @@ public class HelloWorld {
 		// Output Hello World to the user
 		
 		System.out.println("Hello World, its me, Nick Baine");
+		System.out.println("\n How are you today?");
 
 	}
 
